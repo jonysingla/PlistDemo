@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecepieNameValue</key>
+	<array>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Str</key>
+	<string></string>
+	<key>Str1</key>
+	<string></string>
+	<key>Str2</key>
+	<string></string>
+	<key>Str3</key>
+	<string></string>
+	<key>RecipeName</key>
+	<array>
+		<string>FIlter 1</string>
+		<string>Filter 2</string>
+		<string>Filter 3</string>
+		<string>FIlter 4</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>egg.jpg</string>
+		<string>mushrom.jpg</string>
+		<string>egg.jpg</string>
+		<string>mushrom.jpg</string>
+	</array>
+	<key>PrepTime</key>
+	<array>
+		<string>30 Min</string>
+		<string>45 Min</string>
+		<string>50 Min</string>
+		<string>55 Min</string>
+	</array>
+</dict>
+</plist>
